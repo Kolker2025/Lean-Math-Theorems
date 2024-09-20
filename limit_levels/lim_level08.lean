@@ -6,7 +6,7 @@ import game.sets.L01defs -- hide
 import game.sup_inf.GLBprop_if_LUBprop -- hide
 import data.real.basic -- hide
 import tactic.linarith -- hide
-
+ 
 
 namespace xena -- hide
 
