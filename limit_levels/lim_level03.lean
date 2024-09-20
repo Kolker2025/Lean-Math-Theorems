@@ -3,7 +3,7 @@ import game.limits.Blockus_time -- hide
 import game.sets.L01defs -- hide
 import game.sup_inf.GLBprop_if_LUBprop -- hide
 import data.real.basic -- hide
-import tactic.linarith -- hide
+import tactic.linarith -- hide 
 
 namespace xena -- hide
 
